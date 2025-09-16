@@ -1,4 +1,4 @@
 streamlit==1.49.1
-streamlit_folium==0.25.1
-folium==0.20.0
+plotly
+pydeck
 pyyaml==6.0.2
